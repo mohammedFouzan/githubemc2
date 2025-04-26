@@ -31,3 +31,10 @@ error: failed to push some refs to 'https://github.com/mohammedFouzan/githubemc2
 
 
 7. git branch -a  -> Lists all the branches that are available.
+
+
+8. git checkout <branch name>  -> used to switch to another branch
+
+git checkout gitbranch1
+branch 'gitbranch1' set up to track 'origin/gitbranch1'.
+Switched to a new branch 'gitbranch1'
