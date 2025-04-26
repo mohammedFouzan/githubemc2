@@ -44,3 +44,5 @@ Switched to a new branch 'gitbranch1'
 
 
 10. git diff gitbranch1 main -> checks the difference b/w gitbranch1 main branch.
+
+11. git merge gitbranch1  -> merges files with the main branch.
