@@ -38,3 +38,6 @@ error: failed to push some refs to 'https://github.com/mohammedFouzan/githubemc2
 git checkout gitbranch1
 branch 'gitbranch1' set up to track 'origin/gitbranch1'.
 Switched to a new branch 'gitbranch1'
+
+
+9. git push origin gitbranch1  -> since the branch has been changed from 'main' to 'gitbranch1'
