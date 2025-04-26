@@ -41,3 +41,6 @@ Switched to a new branch 'gitbranch1'
 
 
 9. git push origin gitbranch1  -> since the branch has been changed from 'main' to 'gitbranch1'
+
+
+10. git diff gitbranch1 main -> checks the difference b/w gitbranch1 main branch.
